@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+thead{
+    height: 400px;
+    background-color: bisque;
+}
+table{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
